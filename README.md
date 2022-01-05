@@ -4,3 +4,7 @@
 </p>
 
 <h5 align="center"> Gigs for People with Disabilities</h5>
+
+## Screenshots
+|Splash Screen <img src="media/screenshots/splash_screen.png" width=250/>|
+|:--:|
