@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">PwdGigs</string>
+    <string name="no_description" />
+    <string name="pwdgigs_logo">PwdGigs Logo</string>
 </resources>

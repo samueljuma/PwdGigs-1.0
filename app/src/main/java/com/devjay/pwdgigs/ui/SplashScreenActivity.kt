@@ -1,4 +1,4 @@
-package com.devjay.pwdgigs
+package com.devjay.pwdgigs.ui
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -19,7 +19,7 @@ class SplashScreenActivity : AppCompatActivity() {
         Handler(Looper.getMainLooper()).postDelayed(
             Runnable {
 
-                val intent = Intent(this, MainActivity::class.java)
+                val intent = Intent(this, SignInActivity::class.java)
                 startActivity(intent)
                 finish()
             }, 3000

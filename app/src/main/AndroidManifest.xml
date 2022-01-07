@@ -9,21 +9,27 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.PwdGigs">
-            <!--        SplashScreenActivity       -->
         <activity
-            android:name=".SplashScreenActivity"
-            android:theme="@style/SplashTheme">
+            android:name=".ui.SignInActivity"
+            android:exported="true"
+            android:theme="@style/Theme.PwdGigs.NoActionBarAndStatusBar"/>
+        <!-- SignUp Activity -->
+
+        <activity
+            android:name=".ui.SignUpActivity"
+            android:theme="@style/Theme.PwdGigs.NoActionBarAndStatusBar"/>
+
+        <activity
+            android:name=".ui.SplashScreenActivity"
+            android:theme="@style/SplashTheme"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-
-        <!--       MainActivity       -->
-        <activity android:name=".MainActivity">
-
-        </activity>
+        </activity> <!-- MainActivity -->
+        <activity android:name=".ui.MainActivity" />
     </application>
 
 </manifest>
