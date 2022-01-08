@@ -2,4 +2,7 @@
     <string name="app_name">PwdGigs</string>
     <string name="no_description" />
     <string name="pwdgigs_logo">PwdGigs Logo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="email_hint">yourmail@gmail.com</string>
+    <string name="password_hint">your password</string>
 </resources>

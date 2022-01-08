@@ -3,15 +3,21 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_baseline_email.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_security.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_logo_without_fill.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_rectangle_2.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_in_background.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_in_background__1_.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_in_background__2_.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_up_top_right__corner.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/modified_edit_text.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_in_background.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/sign_in_btn_bg.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_up_top_right_corner.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/splash_background.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19948717948717948" />
-        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.19948717948717948" />
+        <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
       </map>
     </option>
