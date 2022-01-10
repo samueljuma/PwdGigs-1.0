@@ -3,12 +3,19 @@
     <string name="no_description" />
     <string name="pwdgigs_logo">PwdGigs Logo</string>
     <string name="sign_in">Sign In</string>
-    <string name="email_hint">yourmail@gmail.com</string>
-    <string name="password_hint">your password</string>
+    <string name="email_hint">johndoe@gmail.com</string>
+    <string name="password_hint">Password</string>
     <string name="forgot_password">Forgot Password?</string>
     <string name="or_sign_in_with">Or Sign In With</string>
     <string name="google_text">Google</string>
     <string name="facebook_text">Facebook</string>
     <string name="don_t_have_an_account">Don\'t Have an Account?</string>
-    <string name="sign_up_text">Sign Up.</string>
+    <string name="sign_up_text">Sign Up</string>
+    <string name="or_sign_up_with_text">or sign up with</string>
+    <string name="already_have_an_account_text">Already Have an Account?</string>
+    <string name="firstname_text">Firstname</string>
+    <string name="lastname_text">Lastname</string>
+    <string name="confirm_password_text">Confirm Password</string>
+    <string name="terms_and_conditions_text">Terms and Conditions</string>
+    <string name="i_agree_to_text">I Agree to</string>
 </resources>

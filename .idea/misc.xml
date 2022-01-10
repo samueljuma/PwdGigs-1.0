@@ -4,11 +4,27 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable/facebook_btn_bg.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/facebook_btn_bg_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/facebook_btn_bg_sign_up.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/google_btn_bg.xml" value="0.11145833333333334" />
+        <entry key="app/src/main/res/drawable/google_btn_bg_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/google_btn_bg_sign_up.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_baseline_email.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_email_sign_up.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_mail_outline_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_mail_outline_sign_up.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_outline.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_baseline_security.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_security_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_security_sign_up.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_facebook.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_facebook_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_facebook_sign_up.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_google.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_google_sign_in.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_google_sign_up.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_logo.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_logo_without_fill.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_rectangle_2.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_in_background.xml" value="0.21875" />
@@ -16,8 +32,10 @@
         <entry key="app/src/main/res/drawable/ic_sign_in_background__2_.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_up_top_right__corner.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/modified_edit_text.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/modified_edit_text_sign_up.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_in_background.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_in_btn_bg.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/sign_up_btn_bg.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_up_top_right_corner.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/splash_background.xml" value="0.21875" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19948717948717948" />

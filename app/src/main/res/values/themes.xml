@@ -52,4 +52,8 @@
         <!--changes navigation bar text color when background is white-->
         <item name="android:windowLightNavigationBar" tools:ignore="NewApi">true</item>
     </style>
+    <style name="MyCheckBox" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorControlNormal">@color/theme_color_3</item>   <!--Border Color-->
+        <item name="colorControlActivated">@color/theme_color_1</item> <!-- Color when activated -->
+    </style>
 </resources>

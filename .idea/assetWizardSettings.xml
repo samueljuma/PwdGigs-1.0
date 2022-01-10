@@ -307,7 +307,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/security/baseline_security_24.xml" />
+                                      <entry key="url" value="file:$USER_HOME$/Android/Sdk/icons/material/materialicons/mail_outline/baseline_mail_outline_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -317,10 +317,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="assetSourceType" value="FILE" />
                             <entry key="autoMirrored" value="true" />
                             <entry key="color" value="00a14b" />
-                            <entry key="outputName" value="ic_google" />
+                            <entry key="outputName" value="ic_baseline_mail_outline_sign_in" />
                             <entry key="sourceFile" value="$USER_HOME$/Downloads/G.svg" />
                           </map>
                         </option>
