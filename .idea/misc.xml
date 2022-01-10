@@ -3,8 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/facebook_btn_bg.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/google_btn_bg.xml" value="0.11145833333333334" />
         <entry key="app/src/main/res/drawable/ic_baseline_email.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_baseline_security.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_facebook.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/ic_google.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_logo_without_fill.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_rectangle_2.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_in_background.xml" value="0.21875" />

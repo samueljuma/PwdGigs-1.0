@@ -10,4 +10,6 @@
     <color name="theme_color_1">#21409A</color>
     <color name="theme_color_2">#058D23</color>
     <color name="theme_color_3">#F3AE1D</color>
+    <color name="facebook_btn_bg">#0E1F48</color>
+    <color name="google_btn_bg">#9A3A4B</color>
 </resources>
