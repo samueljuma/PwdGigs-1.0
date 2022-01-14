@@ -3,9 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/cta_bg.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/cta_bg_layer_list.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/facebook_btn_bg.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/facebook_btn_bg_sign_in.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/facebook_btn_bg_sign_up.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/get_gig_btn_bg.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/google_btn_bg.xml" value="0.11145833333333334" />
         <entry key="app/src/main/res/drawable/google_btn_bg_sign_in.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/google_btn_bg_sign_up.xml" value="0.21875" />
@@ -32,13 +35,17 @@
         <entry key="app/src/main/res/drawable/ic_sign_in_background__2_.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/ic_sign_up_top_right__corner.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/modified_edit_text.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/modified_edit_text_sign_in.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/modified_edit_text_sign_up.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/post_job_btn_bg.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_in_background.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_in_btn_bg.xml" value="0.21875" />
+        <entry key="app/src/main/res/drawable/sign_up_background.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_up_btn_bg.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/sign_up_top_right_corner.xml" value="0.21875" />
         <entry key="app/src/main/res/drawable/splash_background.xml" value="0.21875" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19948717948717948" />
+        <entry key="app/src/main/res/drawable/support_btn_bg.xml" value="0.21875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
       </map>

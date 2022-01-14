@@ -18,4 +18,11 @@
     <string name="confirm_password_text">Confirm Password</string>
     <string name="terms_and_conditions_text">Terms and Conditions</string>
     <string name="i_agree_to_text">I Agree to</string>
+    <string name="welcome_message">Welcome Samuel Juma!</string>
+    <string name="pwdgigs_short_info">PwdGigs is a technology company that bridges the gap between independent talent with disabilities and inclusive employers.</string>
+    <string name="what_to_do_text">What to do?</string>
+    <string name="what_to_do_info_text">You could either get a gig, post a gig or support us</string>
+    <string name="post_gig_text">Post Gig</string>
+    <string name="get_gig_text">Get Gig</string>
+    <string name="support_text">Support</string>
 </resources>

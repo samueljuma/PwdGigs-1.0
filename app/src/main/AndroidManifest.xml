@@ -29,7 +29,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity> <!-- MainActivity -->
-        <activity android:name=".ui.MainActivity" />
+        <activity android:name=".ui.MainActivity"
+            android:theme="@style/SignUpTheme"/>
     </application>
 
 </manifest>
